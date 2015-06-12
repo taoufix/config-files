@@ -2,5 +2,10 @@
 
 ## UI
 ### Show GC button
+Preferences –> General => Show heap status
 
-Preferences –> General -> Show heap status
+### Dark theme
+Preferences –> General -> Appearance => Theme = Dark & Color
+
+### Print margin
+Preferences –> General -> Editors -> Text Editors => Show print margin
