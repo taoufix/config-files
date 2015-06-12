@@ -1,4 +1,6 @@
-# UI
-## Show GC button
+# Eclipse customisations
+
+## UI
+### Show GC button
 
 Preferences –> General -> Show heap status
