@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<folders xmlns="http://eclipse.musgit.com/grepconsole">
+    <style background="00ff80" bold="false" border="false" foreground="000000" id="6040de21-fb99-41e4-adc3-cd863e8d5b8c" italic="false" name="Info"
+        strikeout="false" underline="false" />
+    <style background="ffe0a6" bold="false" border="false" foreground="000000" id="2d9ece6e-0325-4d39-8579-4456851f259c" italic="false" name="Warn"
+        strikeout="false" underline="false" />
+    <style background="ff8080" bold="false" border="false" foreground="000000" id="8720d322-7fd4-4bac-84cb-71a89591bbbb" italic="false" name="Error"
+        strikeout="false" underline="false" />
+    <style bold="false" border="false" foreground="7f7f7f" id="539dd97b-36dc-4d5f-9fd2-14e94d9b015d" italic="false" name="Debug" strikeout="false"
+        underline="false" />
+    <style background="aaffff" bold="false" border="false" foreground="000000" id="88c08f8c-8246-4e1d-a3ac-808ac0639bf4" italic="false" name="SQL"
+        strikeout="false" underline="false" />
+    <style background="ff3737" bold="true" border="false" foreground="000000" id="79ade458-a1ae-498b-9d83-a6a9f469185f" italic="false" name="Fatal"
+        strikeout="false" underline="false" />
+    <folder enabled="true" filter="true" id="ff4bbe02-4bf5-4c17-9ad1-e02cf7abdd59" notifications="true" statistics="true">
+        <folder enabled="true" id="75da4f67-40e8-45e0-8c75-8292c6f9e5db" name="Log Output">
+            <item enabled="true" expression="\[org\.hibernate\.SQL\]" filter="true" id="7af92646-70c5-4ab8-a815-734140b43bc1" name="SQL"
+                notifications="true" statistics="true">
+                <group style="88c08f8c-8246-4e1d-a3ac-808ac0639bf4" />
+            </item>
+            <item expression=".* DEBUG .*" id="733554cb-6759-46e4-96b4-05b0ae9686e8" name="Debug">
+                <group style="539dd97b-36dc-4d5f-9fd2-14e94d9b015d" />
+            </item>
+            <item expression=".* WARN  .*" id="805195bb-ae5d-4b68-b2c8-11e4688de116" name="Warn">
+                <group style="2d9ece6e-0325-4d39-8579-4456851f259c" />
+            </item>
+            <item expression=".* ERROR .*" id="0f03e7f0-7082-462f-ae84-1883904b5301" name="Error">
+                <group style="8720d322-7fd4-4bac-84cb-71a89591bbbb" />
+            </item>
+            <item expression=" SEVERE " id="6da0cf2f-86fe-4054-9f74-522cb8137a72" name="Fatal">
+                <group style="79ade458-a1ae-498b-9d83-a6a9f469185f" />
+            </item>
+            <item enabled="true" expression="JBoss AS 7.1.3.Final &quot;Arges&quot; started in " filter="true" id="61d7e8d3-10f5-4ddd-8765-e98a0855de49"
+                name="JBoss start" notificationTitle="Sylvea ready" notifications="true" popupNotification="true" statistics="true">
+                <notificationMessage>Sylvea ready.</notificationMessage>
+                <group style="6040de21-fb99-41e4-adc3-cd863e8d5b8c" />
+            </item>
+            <item enabled="true" expression="JBAS018565" filter="true" id="61cab1b6-78ba-4e5f-83b0-584b6f2cda11" name="Redeploy"
+                notificationTitle="Deployed." notifications="true" popupNotification="true" statistics="true">
+                <group style="6040de21-fb99-41e4-adc3-cd863e8d5b8c" />
+            </item>
+            <item enabled="true" expression="&gt;&gt;&gt; end" filter="true" id="2e97a8f4-223c-465e-a8c2-fad5f3150eaf" name="&gt;&gt;&gt; end"
+                notifications="true" statistics="true">
+                <group style="8720d322-7fd4-4bac-84cb-71a89591bbbb" />
+            </item>
+            <item enabled="true" expression="&gt;&gt;&gt; " filter="true" id="6c930617-cd47-4407-98aa-78a70e9560f3" name="Sysout debug &gt;&gt;&gt;"
+                notifications="true" statistics="true">
+                <group style="6040de21-fb99-41e4-adc3-cd863e8d5b8c" />
+            </item>
+        </folder>
+    </folder>
+</folders>
