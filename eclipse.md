@@ -9,3 +9,7 @@ Preferences –> General -> Appearance => Theme = Dark & Color
 
 ### Print margin
 Preferences –> General -> Editors -> Text Editors => Show print margin
+
+
+### MyLyn EPUB Reader
+https://www.eclipse.org/mylyn/downloads/
