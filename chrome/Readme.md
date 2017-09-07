@@ -3,7 +3,7 @@
 * [Invert Page Colors](https://chrome.google.com/webstore/detail/invert-page-colors/hjhdnhiofjddcapmffbllcpaodjmdphn?hl=en)
 * [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
 * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja?hl=en)
-* [Tampermonkey / Greasemonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+* [Tampermonkey (Greasemonkey)](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
 * []()
 * []()
 * []()
