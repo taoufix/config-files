@@ -7,5 +7,5 @@
 * [Disable HTML5 Autoplay](https://chrome.google.com/webstore/detail/disable-html5-autoplay/efdhoaajjjgckpbkoglidkeendpkolai?hl=en)
 * [Floating for YouTube](https://chrome.google.com/webstore/detail/floating-for-youtube/jjphmlaoffndcnecccgemfdaaoighkel?hl=en)
 * [Floating for YouTube™ Extension](https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk?hl=en)
-* []()
+* [Fix Chrome Underline](https://chrome.google.com/webstore/detail/fix-chrome-underlining/haebmhfkidapephfmkapgdoebgfhlldh)
 * []()
