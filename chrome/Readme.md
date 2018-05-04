@@ -8,4 +8,5 @@
 * [Floating for YouTube](https://chrome.google.com/webstore/detail/floating-for-youtube/jjphmlaoffndcnecccgemfdaaoighkel?hl=en)
 * [Floating for YouTube™ Extension](https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk?hl=en)
 * [Fix Chrome Underline](https://chrome.google.com/webstore/detail/fix-chrome-underlining/haebmhfkidapephfmkapgdoebgfhlldh)
+* [Blank New Tab Page](https://chrome.google.com/webstore/detail/blank-new-tab-page/jonikckfpolfcdcgdficelkfffkloemh)
 * []()
