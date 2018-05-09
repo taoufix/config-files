@@ -1,3 +1,3 @@
 
-* [Key Remapper](http://atnsoft.com/keyremapper/)
+* [SharpKeys](https://github.com/randyrants/sharpkeys/)
 *
