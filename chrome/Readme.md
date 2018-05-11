@@ -9,4 +9,5 @@
 * [Floating for YouTube™ Extension](https://chrome.google.com/webstore/detail/floating-for-youtube-exte/egncdnniomonjgpjbapalkckojhkfddk?hl=en)
 * [Fix Chrome Underline](https://chrome.google.com/webstore/detail/fix-chrome-underlining/haebmhfkidapephfmkapgdoebgfhlldh)
 * [Blank New Tab Page](https://chrome.google.com/webstore/detail/blank-new-tab-page/jaadjnlkjnhohljficgoddcjmndjfdmi/related?hl=en)
+* [No Smooth Scrolling](https://chrome.google.com/webstore/detail/no-smooth-scrolling/oikddacoldignalphkgeppnpalkmkgbo/related)
 * []()
