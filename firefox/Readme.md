@@ -12,6 +12,6 @@
 * [Google View Image](https://addons.mozilla.org/en-US/firefox/addon/view-image/)
 * [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)
 * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
-* []()
+* [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
 * []()
 
