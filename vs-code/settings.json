@@ -15,4 +15,6 @@
     "files.autoSaveDelay": 3000,
     "files.trimFinalNewlines": true,
     "editor.acceptSuggestionOnEnter": "off",
+    "editor.renderIndentGuides": false,
+    "editor.dragAndDrop": false,
 }
