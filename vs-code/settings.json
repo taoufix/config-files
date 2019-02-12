@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 12,
+    "workbench.editor.enablePreview": false,
+    "http.proxyStrictSSL": false,
+    "editor.minimap.enabled": false,
+    "html.format.maxPreserveNewLines": 120,
+    "editor.detectIndentation": false,
+    "files.eol": "\n",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "files.trimFinalNewlines": true,
+    "editor.acceptSuggestionOnEnter": "off",
+}
