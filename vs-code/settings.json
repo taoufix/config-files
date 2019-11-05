@@ -2,6 +2,7 @@
   // Disable reports
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
+  "workbench.statusBar.feedback.visible": false,
   // Fonts
   "editor.fontSize": 12,
   "editor.fontLigatures": true,
