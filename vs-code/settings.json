@@ -31,6 +31,7 @@
   "window.menuBarVisibility": "toggle",
   "breadcrumbs.enabled": true,
   "workbench.statusBar.visible": true,
+  "editor.parameterHints.enabled": false,
   // Network
   "http.proxyStrictSSL": false,
   "html.format.maxPreserveNewLines": 120,
