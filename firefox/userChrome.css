@@ -1,0 +1,33 @@
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+/* Prevent white flash */
+#browser vbox#appcontent tabbrowser,
+#content,
+#tabbrowser-tabpanels,
+browser[type=content-primary],
+browser[type=content] > html {
+    background: black !important;
+}
+
+/* Remove pinned tabs blue dot */
+.tabbrowser-tab .tab-loading-burst {
+  display: none !important;
+}
+
+/* Completely hide the "title changed" notification dot on pinned tabs */
+.tabbrowser-tab > .tab-stack > .tab-content[pinned][titlechanged] {
+  background-image: none !important;
+}
+
+/* Give the Location (URL) Bar a fixed-width font */
+#urlbar {
+    font-family: monospace !important;
+    font-size: 0.8em;
+}
+
+/*
+ * Eliminate the throbber and its annoying movement:
+ */
+#throbber-box {
+  display: none !important;
+}
