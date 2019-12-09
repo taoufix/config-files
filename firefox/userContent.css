@@ -1,3 +1,4 @@
+
 @namespace url(http://www.w3.org/1999/xhtml);
 
 /* Turn off "blink" element blinking */
@@ -8,6 +9,14 @@ blink { text-decoration: none ! important; }
  */
 marquee { -moz-binding: none; }
 
+
+/* Better Scrollbars */ 
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(155, 155, 155, .66) rgba(0, 0, 0, .33);
+}
+
 /* 
  * For more examples see http://www.mozilla.org/unix/customizing.html
  */
+
