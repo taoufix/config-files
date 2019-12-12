@@ -13,5 +13,6 @@
 * [The Camelizer - Price Tracker](https://addons.mozilla.org/en-US/firefox/addon/the-camelizer-price-history-ch/)
 * [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/)
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
-* []()
+* [Favioli - favicons](https://addons.mozilla.org/en-US/firefox/addon/favioli/)
+
 
