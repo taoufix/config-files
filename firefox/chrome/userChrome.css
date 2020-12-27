@@ -1,3 +1,7 @@
+/* 
+ * To use : in about:config enable toolkit.legacyUserProfileCustomizations.stylesheets and restart Firefox.
+ * For more examples see http://www.mozilla.org/unix/customizing.html
+ */
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 
 /* Prevent white flash */

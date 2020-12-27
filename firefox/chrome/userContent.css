@@ -1,0 +1,43 @@
+/* 
+ * To use : in about:config enable toolkit.legacyUserProfileCustomizations.stylesheets and restart Firefox.
+ * For more examples see http://www.mozilla.org/unix/customizing.html
+ */
+ @namespace url(http://www.w3.org/1999/xhtml);
+
+/* Turn off "blink" element blinking */
+blink { text-decoration: none ! important; }
+
+/*
+ * Turn off "marquee" element
+ */
+marquee { -moz-binding: none; }
+
+
+/* Better Scrollbars */ 
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(155, 155, 155, .66) rgba(0, 0, 0, 0);
+}
+
+
+/* Reader View */
+@-moz-document url-prefix("about:reader") {
+  /* Darker background */
+  body.dark {
+    --main-background: #111 !important;
+    --main-foreground: #aaa !important;
+  }
+
+  /* Border for <pre> */
+  body.dark pre {
+    border: 1px solid var(--font-value-border);
+  }
+
+  /* Disable href underline */
+  a {
+    text-decoration: none;
+  }
+
+}
+
+
