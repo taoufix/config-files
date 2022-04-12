@@ -11,3 +11,6 @@ Shift, Shift > Show Memory Indicator
 
 ## Enable Font legatures
 Shift, Shift > Enbale Legatures
+
+## Disable auto-brackets auto-quote
+File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pair quote
