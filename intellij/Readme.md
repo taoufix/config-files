@@ -1,6 +1,6 @@
 # Shortcuts
-* **Ctrl+T, H** Git history
-* **Ctrl+T, A** Analyse Stack
+* **Ctrl+T, H** Show history
+* **Ctrl+T, A** Analyze Stack
 
 # Tweaks
 ## Remover Folding
