@@ -1,6 +1,7 @@
 # Shortcuts
 * **Ctrl+T, H** Show history
 * **Ctrl+T, A** Analyze Stack
+* **Ctrl+T, O** Open
 
 # Tweaks
 ## Remover Folding
