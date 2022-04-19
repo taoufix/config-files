@@ -2,6 +2,7 @@
 * **Ctrl+T, H** Show history
 * **Ctrl+T, A** Analyze Stack
 * **Ctrl+T, O** Open
+* **Ctrl+T, D** Distraction Free Mode
 
 # Tweaks
 ## Remover Folding
