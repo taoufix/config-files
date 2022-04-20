@@ -19,3 +19,7 @@ File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pa
 
 # Plugins
 * [Clock Widget](https://plugins.jetbrains.com/plugin/11252-clock-widget)
+* [Rainbow brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+* [Ideolog](https://plugins.jetbrains.com/plugin/9746-ideolog) : Log Viewer / Highlither
+* [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
+* [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper)
