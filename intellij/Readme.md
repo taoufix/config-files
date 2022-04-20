@@ -16,3 +16,6 @@ Shift, Shift > Enbale Legatures
 
 ## Disable auto-brackets auto-quote
 File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pair quote
+
+# Plugins
+* [Clock Widget](https://plugins.jetbrains.com/plugin/11252-clock-widget)
