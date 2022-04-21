@@ -1,3 +1,7 @@
+# Customisation
+* Disable Smooth Scrolling:  chrome://flags/#smooth-scrolling
+
+# Extensions
 
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 * [Invert Page Colors](https://chrome.google.com/webstore/detail/invert-page-colors/hjhdnhiofjddcapmffbllcpaodjmdphn?hl=en)
