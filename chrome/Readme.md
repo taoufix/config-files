@@ -1,6 +1,3 @@
-# Customisation
-* Disable Smooth Scrolling:  chrome://flags/#smooth-scrolling
-
 # Extensions
 
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
