@@ -17,6 +17,11 @@ Shift, Shift > Enbale Legatures
 ## Disable auto-brackets auto-quote
 File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pair quote
 
+## Appearance
+### Tree Lines
+File | Settings | Appearance & Behavior | Appearance > Show tree indent guides
+File | Settings | Editor | General | Appearance > Show method separators
+
 # Plugins
 * [Clock Widget](https://plugins.jetbrains.com/plugin/11252-clock-widget)
 * [Rainbow brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
