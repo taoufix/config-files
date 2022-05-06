@@ -8,14 +8,14 @@
 ## Annoyances
 * Remove Folding: File | Settings | Editor | General | Code Folding > One-line methods
 * Inlay Hints: File | Settings | Editor | Inlay Hints
-** Code vision: Usages, Code author
+  - Code vision: Usages, Code author
 * Disable auto-brackets auto-quote: File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pair quote
 
 ## Nice to have
 * Show Memory: Shift, Shift > Show Memory Indicator 
 * Enable Font legatures: Shift, Shift > Enbale Legatures
 * Inlay Hints: File | Settings | Editor | Inlay Hints
-** Parameter names > SQL: enable
+  - Parameter names > SQL: enable
 
 ## Appearance
 * Tree Lines: File | Settings | Appearance & Behavior | Appearance > Show tree indent guides
