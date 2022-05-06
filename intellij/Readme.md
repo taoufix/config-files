@@ -10,6 +10,8 @@
 * Inlay Hints: File | Settings | Editor | Inlay Hints
   - Code vision: Usages, Code author
 * Disable auto-brackets auto-quote: File | Settings | Editor | General | Smart Keys > Insert Pair Bracket, Insert Pair quote
+* Disable Tursted locations dialog when opening a new file: File | Settings | Build, Execution, Deployment | Trusted Locations
+  - Add (+) location: "/"
 
 ## Nice to have
 * Show Memory: Shift, Shift > Show Memory Indicator 
