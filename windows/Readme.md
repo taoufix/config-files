@@ -3,6 +3,7 @@
 
 * [SharpKeys](https://github.com/randyrants/sharpkeys/)
 * [Power Toys](https://github.com/microsoft/PowerToys/releases/)
+* [Mouse Jigler](https://dnlwd.best/mousejiggler/)
 
 ## Configuration
 * Add program to Statup: copy shortcut to 
