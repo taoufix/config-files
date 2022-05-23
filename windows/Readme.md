@@ -2,7 +2,7 @@
 ## Programs
 
 * [SharpKeys](https://github.com/randyrants/sharpkeys/)
-
+* [Power Toys](https://github.com/microsoft/PowerToys/releases/)
 
 ## Configuration
 * Add program to Statup: copy shortcut to 
