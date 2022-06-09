@@ -1,6 +1,6 @@
 # Flags
 * Enable reader mode: chrome://flags/#enable-reader-mode
-  * Chrome v101: 
+  * Chrome v101: chrome://flags/#temporary-unexpire-flags-m100 
 
 # Extensions
 
