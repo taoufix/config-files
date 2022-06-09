@@ -1,3 +1,7 @@
+# Flags
+* Enable reader mode: chrome://flags/#enable-reader-mode
+  * Chrome v101: 
+
 # Extensions
 
 * [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
