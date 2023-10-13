@@ -11,4 +11,4 @@ media.autoplay.enabled = false;
 privacy.trackingprotection.enabled = true;
 
 // Wider scrollbars
-widget.non-native-theme.scrollbar.size.override = 75;
+widget.non-native-theme.scrollbar.size.override = 50;
